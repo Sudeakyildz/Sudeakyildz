@@ -13,7 +13,6 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sude-a-9592b3343/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudeakyildz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sudeakyildiz.github.io/)
 
 </div>
 
@@ -30,6 +29,7 @@ education: Bilgisayar Mühendisliği
 fields_of_interest:
   - Yapay Zeka & Derin Öğrenme
   - Bilgisayar Görüsü & Görüntü İşleme
+  - Siber Güvenlik
   - Web Geliştirme (Full-Stack)
   - Oyun Programlama
   - Test Otomasyon
@@ -47,12 +47,18 @@ hobbies: ["Coding 💻", "Gaming 🎮", "Design 🎨"]
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sudeakyildz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudeakyildz&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<a href="https://github.com/Sudeakyildz">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sudeakyildz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Sudeakyildz">
+  <img height="180" src="https://streak-stats.demolab.com?user=Sudeakyildz&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+</a>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeakyildz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/Sudeakyildz">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeakyildz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -91,6 +97,10 @@ hobbies: ["Coding 💻", "Gaming 🎮", "Design 🎨"]
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
+### 🔒 Siber Güvenlik
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 ### 🧪 Test & DevOps & Araçlar
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -106,38 +116,26 @@ hobbies: ["Coding 💻", "Gaming 🎮", "Design 🎨"]
 
 <div align="center">
 
-<a href="https://github.com/Sudeakyildz/Camera-BasedForestFireDetectionSystemAndMobileApplication">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudeakyildz&repo=Camera-BasedForestFireDetectionSystemAndMobileApplication&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Sudeakyildz/LieDetectionWithMicroExpressionsAndPsychologicalQuestions">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudeakyildz&repo=LieDetectionWithMicroExpressionsAndPsychologicalQuestions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Sudeakyildz/SecuritySystemAndSmartAssistantWithFacialRecognitionAndHandGestures">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudeakyildz&repo=SecuritySystemAndSmartAssistantWithFacialRecognitionAndHandGestures&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Sudeakyildz/VehicleUnderbodyForeignMatterDetectionSystem">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudeakyildz&repo=VehicleUnderbodyForeignMatterDetectionSystem&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Sudeakyildz/DotnetStore">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudeakyildz&repo=DotnetStore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Sudeakyildz/TestAutomationSelenium">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sudeakyildz&repo=TestAutomationSelenium&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
+| Proje | Açıklama | Teknolojiler |
+|-------|----------|-------------|
+| 🔥 [**Kamera Tabanlı Orman Yangını Tespiti**](https://github.com/Sudeakyildz/Camera-BasedForestFireDetectionSystemAndMobileApplication) | Kamera görüntüleriyle orman yangını tespit sistemi ve mobil uygulama | `JavaScript` `React Native` `AI` |
+| 🎭 [**Mikro İfadelerle Yalan Tespiti**](https://github.com/Sudeakyildz/LieDetectionWithMicroExpressionsAndPsychologicalQuestions) | Mikro yüz ifadeleri ve psikolojik sorularla yalan tespit sistemi | `Python` `OpenCV` `ML` |
+| 🔐 [**Yüz Tanıma ile Güvenlik Sistemi**](https://github.com/Sudeakyildz/SecuritySystemAndSmartAssistantWithFacialRecognitionAndHandGestures) | Yüz tanıma ve el hareketleri ile güvenlik sistemi ve akıllı asistan | `Python` `OpenCV` `AI` |
+| 🚗 [**Araç Altı Yabancı Madde Tespiti**](https://github.com/Sudeakyildz/VehicleUnderbodyForeignMatterDetectionSystem) | Araç altında yabancı madde tespit eden görüntü işleme sistemi | `Python` `Computer Vision` |
+| 🛒 [**DotnetStore**](https://github.com/Sudeakyildz/DotnetStore) | .NET ile geliştirilmiş e-ticaret uygulaması | `C#` `.NET` `MSSQL` |
+| 🧪 [**Selenium Test Automation**](https://github.com/Sudeakyildz/TestAutomationSelenium) | Selenium ile otomatik test senaryoları | `Java` `Selenium` |
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Aktivite Grafiği | Activity Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudeakyildz/Sudeakyildz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudeakyildz/Sudeakyildz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sudeakyildz/Sudeakyildz/output/github-snake-dark.svg" />
-</picture>
+<a href="https://github.com/Sudeakyildz">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudeakyildz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" width="100%" />
+</a>
 
 </div>
 
