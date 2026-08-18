@@ -49,16 +49,7 @@ hobbies: ["Coding 💻", "Gaming 🎮", "Design 🎨"]
 <div align="center">
 
 <a href="https://github.com/Sudeakyildz">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudeakyildz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Sudeakyildz">
   <img height="180" src="https://streak-stats.demolab.com?user=Sudeakyildz&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Sudeakyildz">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sudeakyildz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </a>
 
 </div>
