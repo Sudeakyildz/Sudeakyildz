@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Merhaba%2C+Ben+Sude+%F0%9F%91%8B;AI+Developer+%7C+Web+Designer+%7C+Game+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Merhaba%2C+Ben+Sude+%F0%9F%91%8B;AI+Developer+%7C+Web+Designer+%7C+Game+Developer" alt="Typing SVG" />
 
 <br/>
 
@@ -13,6 +13,7 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sude-a-9592b3343/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudeakyildz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Sudeakyildz/Sudeakyildiz.github.io)
 
 </div>
 
@@ -48,7 +49,7 @@ hobbies: ["Coding 💻", "Gaming 🎮", "Design 🎨"]
 <div align="center">
 
 <a href="https://github.com/Sudeakyildz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sudeakyildz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudeakyildz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Sudeakyildz">
   <img height="180" src="https://streak-stats.demolab.com?user=Sudeakyildz&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
@@ -57,7 +58,7 @@ hobbies: ["Coding 💻", "Gaming 🎮", "Design 🎨"]
 <br/>
 
 <a href="https://github.com/Sudeakyildz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeakyildz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sudeakyildz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </a>
 
 </div>
