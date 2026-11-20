@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sude%20Nur%20Ak%C4%B1ld%C4%B1z&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sude%20Nur%20Ak%C4%B1ld%C4%B1z&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20AI%20Engineer%20%7C%20Game%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Merhaba%2C+ben+Sude+%F0%9F%91%8B;Bilgisayar+g%C3%B6r%C3%BCs%C3%BC+ve+yapay+zek%C3%A2+geli%C5%9Ftiriyorum;Web+ve+oyun+projeleri+yap%C4%B1yorum;Test+otomasyonu+%C3%B6%C4%9Freniyorum" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Merhaba%2C+ben+Sude+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisi+%7C+Web+%26+Yapay+Zek%C3%A2;Oyun+geli%C5%9Ftiriyorum+%F0%9F%8E%AE;Bilgisayar+g%C3%B6r%C3%BCs%C3%BC+projeleri+yap%C4%B1yorum;Test+otomasyonu+%C3%B6%C4%9Freniyorum" alt="Typing SVG" />
 
 <br/>
 
@@ -20,12 +20,14 @@
 <tr>
 <td width="60%">
 
-- 🎓 **Bilgisayar Mühendisliği** öğrencisiyim
+- 🎓 **Bilgisayar Mühendisliği** mezunuyum
 - 📍 Türkiye
-- 🔭 Odağım: **Yapay Zekâ & Bilgisayar Görüsü**
+- 🌐 Ana alanlarım: **Web Geliştirme** ve **Yapay Zekâ**
+- 👁️ Yapay zekâda özellikle **Bilgisayar Görüsü & Görüntü İşleme**
+- 🎮 **Oyun geliştiriyorum** (Unity, Unreal Engine)
 - 🌱 Şu an öğrendiklerim: **Selenium Test Otomasyonu**, **İleri Seviye Derin Öğrenme**
-- 🎮 Oyun programlama ve 🎨 tasarım ile de ilgileniyorum
 - 🔐 Siber güvenliği merak ediyorum
+- 🎨 Tasarım ve 🕹️ oyun oynamak hobilerim
 
 </td>
 <td width="40%" align="center">
@@ -74,13 +76,7 @@ while (alive) {
 
 <div align="center">
 
-**🤖 Yapay Zekâ & Görüntü İşleme**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**🌐 Frontend & Mobil**<br/>
+**🌐 Web Geliştirme (Frontend & Backend)**<br/>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -88,26 +84,30 @@ while (alive) {
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**⚙️ Backend & Veritabanı**<br/>
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**🎮 Oyun & 🔒 Güvenlik**<br/>
+**🤖 Yapay Zekâ & Görüntü İşleme**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**🎮 Oyun Geliştirme**<br/>
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**🔒 Güvenlik & 🧪 Test & Araçlar**<br/>
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**🧪 Test & Araçlar**<br/>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
